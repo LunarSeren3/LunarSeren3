@@ -1,6 +1,6 @@
 ## Seren Lowy software consultant
 
-# Skills
+### Skills
 Python
 R (statistical language)
 Web languages (JavaScript, HTML, CSS)
