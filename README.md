@@ -11,5 +11,5 @@
 - Technical documentation and writing
 
 ### 🧑‍🌾 Certified Organic
-This project is certified organic under the [Certified Organic Code License](https://github.com/zwbao/certified-organic-code).
-No AI was used in the making of this software. Every bug is artisanal and hand-crafted.
+Every project I code is certified organic under the [Certified Organic Code License](https://github.com/zwbao/certified-organic-code).
+As a guarantee of quality thinking, no AI was used to DEVELOP this software; however your projects involving AI are welcome!
