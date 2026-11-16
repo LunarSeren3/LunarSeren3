@@ -12,4 +12,4 @@
 
 ### 🧑‍🌾 Certified Organic
 Every project I code is certified organic under the [Certified Organic Code License](https://github.com/zwbao/certified-organic-code).
-As a guarantee of quality thinking, no AI was used to DEVELOP this software; however your projects involving AI are welcome!
+As a guarantee of quality human understanding, I don't use AI to DEVELOP (generate, enhance) the code, but AI-related projects are totally welcome!
