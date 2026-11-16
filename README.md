@@ -8,8 +8,8 @@ I respect my clients' privacy and preferred platforms. This means that many of m
 - Web apps
 - Containerized, distributed and parallel apps
 - Data visualization
-- AI prompt engineering
-- Database query engineering
+- Database systems
+- AI interfaces and prompt engineering
 - ...and more!
 
 ### Skills
