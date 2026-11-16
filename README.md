@@ -3,13 +3,14 @@
 
 I respect my clients' privacy and preferred platforms. This means that many of my projects are not linked publicly here (or on GitHub at all). Please contact me at my website for a free consultation to discuss essentials about your project.
 
-### Project experience
+### Project types
 - Mobile apps
 - Web apps
 - Containerized, distributed and parallel apps
 - Data visualization
 - AI prompt engineering
 - Database query engineering
+- ...and more!
 
 ### Skills
 - Python
